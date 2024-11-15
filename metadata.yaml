@@ -7,6 +7,9 @@ contributor:
     deathdate: 1956
     gutenberg_agent_id: '55668'
     url: http://www.gutenberg.org/2009/agents/55668
+covers:
+- cover_type: archival
+  image_path: 74678-h/images/cover.jpg
 creator:
   author:
     agent_name: Domville-Fife, Charles W. (Charles William)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '34085'
     url: http://www.gutenberg.org/2009/agents/34085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74678#Unter-Wilden-am-Amazonas-b-Forschungen-und-Abenteuer-bei-Kopfjagern-und-Menschenfressern
 gutenberg_issued: '2024-11-04'
 gutenberg_type: Text
 identifiers:
